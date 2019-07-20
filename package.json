@@ -1,0 +1,27 @@
+{
+  "name": "packageton-npm",
+  "version": "1.0.0",
+  "description": "A skeleton structure which helps you quick start the creation of a npm package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "example"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roliod/packageton-npm.git"
+  },
+  "keywords": [
+    "npm",
+    "npm-package"
+  ],
+  "author": "Roland Oduberu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roliod/packageton-npm/issues"
+  },
+  "homepage": "https://github.com/roliod/packageton-npm#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^6.0.1"
+  }
+}
