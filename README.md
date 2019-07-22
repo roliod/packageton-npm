@@ -4,7 +4,7 @@ Packegeton-npm is a skeleton structure which helps you quick start the creation 
 
 ## Starting the application
 
-install:
+install dependencies:
 
     $ make install
     
